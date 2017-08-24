@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lector Plano</string>
+    <string name="nombre">Francisco J. Caracuel</string>
+    
+    <string name="error_archivo_no_encontrado">Archivo no encontrado</string>
+    <string name="error_io">Error al escribir en el archivo</string>
+
+</resources>
